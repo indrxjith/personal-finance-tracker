@@ -1,0 +1,26 @@
+date,amount,category,description
+20-07-2024,125.65,income,salary
+20-07-2024,125.65,income,salary
+20-07-2024,125.65,Income,Salary
+20-07-2024,125.65,Income,Salary
+19-07-2024,300.0,Expense,salary
+1000,Income,Salary
+02-01-2025,200,Expense,salary
+03-01-2025,150,Expense,salary
+05-01-2025,1200,Income,salary
+06-01-2025,300,Expense,Entertainment
+07-01-2025,800,Income,Bonus
+08-01-2025,100,Expense,Utilities
+09-01-2025,500,Expense,Dining Out
+10-01-2025,2000,Income,Consulting Fee
+11-01-2025,250,Expense,Rent
+01-01-2025,1000,Income,Salary
+02-01-2025,200,Expense,Groceries
+03-01-2025,150,Expense,Transportation
+05-01-2025,1200,Income,Freelance Project
+06-01-2025,300,Expense,Entertainment
+07-01-2025,800,Income,Bonus
+08-01-2025,100,Expense,Utilities
+09-01-2025,500,Expense,Dining Out
+10-01-2025,2000,Income,Consulting Fee
+11-01-2025,250,Expense,Rent
